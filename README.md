@@ -43,8 +43,7 @@ npm run start
 ## How to Clone first time
 
 ```powershell
-git clone https://github.com/Jalalhejazi/angular-basics.git 
-cd angular-basics
+git clone <repo>
 code .
 
 # Need to install requirements
